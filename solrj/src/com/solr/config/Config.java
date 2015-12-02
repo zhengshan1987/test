@@ -10,13 +10,12 @@ import com.jfinal.core.JFinal;
 import com.solr.controller.SolrController;
 
 /**
- * API引导式配置
+ * API引导式配置   
  */
 public class Config extends JFinalConfig {
 	
 	/**
-	 * 配置常量
-	 * test git
+	 * 配置常量1
 	 */
 	public void configConstant(Constants me) {
 		me.setDevMode(true);
