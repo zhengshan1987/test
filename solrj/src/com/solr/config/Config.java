@@ -11,12 +11,12 @@ import com.solr.controller.SolrController;
 
 /**
  * API引导式配置
- * test git11
  */
 public class Config extends JFinalConfig {
 	
 	/**
 	 * 配置常量
+	 * test git
 	 */
 	public void configConstant(Constants me) {
 		me.setDevMode(true);
