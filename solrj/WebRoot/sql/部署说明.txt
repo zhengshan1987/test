@@ -1,0 +1,8 @@
+1、初始化sql
+
+2、solrj部署到Tomcat中
+
+3、solr正确部署，详见solr环境搭建文档
+
+4、修改solr数据库配置文件
+   solr-3.5.0\example\solr\conf\data-config.xml
