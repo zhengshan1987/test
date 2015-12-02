@@ -11,6 +11,7 @@ import com.solr.controller.SolrController;
 
 /**
  * API引导式配置
+ * test git
  */
 public class Config extends JFinalConfig {
 	
